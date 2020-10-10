@@ -1,0 +1,42 @@
+/* Shariful Islam */
+* {
+		max-width: 500px;
+				}
+body {
+				min-width: 400px;
+				color: tomato;
+				background-color: #99ddff;
+				}
+h1 {text-align: center;}
+.img-pos {
+				position: absolute;
+				top: 22px;
+				left: 40px;
+				}
+.h1-pos {
+				position: absolute;
+				top: 0px;
+				left: 150px;
+	    	color: #6699ff;
+				}
+.nam-pos {
+				position: absolute;
+				top: 50px;
+				left: 150px;
+				color: #006699;
+				}
+.body-pos {
+				position: absolute;
+				top: 120px;
+				left: 40px;
+				}
+ul ul {
+				list-style-type: none;
+				}
+.color {
+				color: #6699ff;
+				}
+.head-text {
+				text-decoration: underline;
+				color: #ff9900;
+				}
